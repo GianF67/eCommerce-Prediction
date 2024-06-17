@@ -1,5 +1,5 @@
-# Yojo.com Review Popularity Prediction 
-This repository contains the Machine Learning project aimed at predicting the popularity of product reviews for Yojo.com, a leader in the online shopping industry. The prediction is based on the number of likes a review is expected to receive, utilizing various textual features of the reviews such as the subject, sentiment, and word counts. The task is formulated as a regression problem, where the goal is to predict the integer value of likes for each review.
+# eCommerce Review Popularity Prediction 
+This repository contains the Machine Learning project aimed at predicting the popularity of product reviews for a leader eCommerce. The prediction is based on the number of likes a review is expected to receive, utilizing various textual features of the reviews such as the subject, sentiment, and word counts. The task is formulated as a regression problem, where the goal is to predict the integer value of likes for each review.
 
 ## Dataset
 The project involves two datasets:
